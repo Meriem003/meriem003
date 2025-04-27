@@ -1,6 +1,5 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="center">
 <a href="https://www.linkedin.com/in/meryem-salhi-73251b33a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meryemsalhi" height="30" width="30" /></a>
 </p>
 
