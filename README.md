@@ -31,12 +31,4 @@
 
 ---
 
-## 📊 My GitHub Stats:
-
-![Meryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryamsalhi&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meryamsalhi&layout=compact&text_color=ffffff&bg_color=0d1117&hide=php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meryamsalhi&theme=dark)](https://git.io/streak-stats)
-
----
-
 ⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.80 % as on ⏰ 27-Apr-2025
