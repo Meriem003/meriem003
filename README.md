@@ -28,3 +28,15 @@
 </p>
 
 ---
+
+## 📫 Contact me:
+
+- 📧 **Email** : [meryemsalhi590@gmail.com](mailto:meryemsalhi590@gmail.com)  
+- 💼 **LinkedIn** : [Meryam Salhi](https://www.linkedin.com/in/meryem-salhi-73251b33a/)
+
+---
+
+🎉 **Merci d'avoir visité mon profil !**  
+N'hésite pas à explorer mes projets ou à me contacter pour discuter de collaborations ou de nouvelles opportunités. 🚀
+
+---
