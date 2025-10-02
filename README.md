@@ -15,18 +15,6 @@
 
 ---
 
-## 💼 Professional Experience:
-
-### 🔧 Full Stack Developer Intern | **WEBCINQ**
-*May 2025 - July 2025*
-
-- 🚰 Developed a complete plumbing services management application (Laravel, MySQL, JavaScript, Bootstrap)
-- 🌍 Created a responsive website for a humanitarian and educational youth organization
-- 🛒 Designed and developed the backend of a carpet e-commerce platform with product and order management
-- 📊 **Methodology**: Agile Scrum
-
----
-
 ## 🛠️ Languages and Tools:
 
 <p align="center">
