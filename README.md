@@ -1,62 +1,124 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
-## 👩‍💻 About Me  
+<h1 align="center">I'm Meryem Salhi 👩‍💻</h1>
 
-- 🎓 I'm **Meryem Salhi**, a passionate **Full Stack Developer**  
-- 📍 Based in Morocco | 🎒 2nd year student at **YouCode | UM6P**  
-- 💻 Daily tools: **PHP**, **JavaScript**, **Java**, **Laravel**, **React**, **Angular**, **Node.js**, **Spring Boot**  
-- 🎯 Specialized in: **Laravel**, **React.js**, **TailwindCSS**, **Bootstrap**  
-- 🗄️ Databases: **MySQL**, **PostgreSQL**, **MongoDB**, **SQLite**  
-- 🛠️ Tools: **Git**, **Jira**, **Postman**, **Figma**, **LucidChart**  
-- 🌱 Currently mastering: **Full Stack Development** & **Agile methodologies**  
-- ⚡ Fun fact: I love minimalist black, white, and red color palettes 🎨  
+<h3 align="center">
+Full Stack Developer • Laravel • React • TypeScript
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, crafting clean user experiences, and continuously learning new technologies.
+</p>
 
 ---
 
+## 👩‍💻 About Me
 
-## 🛠️ Languages and Tools  
+- 💼 Full Stack Developer
+- 📍 Based in Morocco 🇲🇦
+- 🚀 Currently building modern web applications using **Laravel**, **React**, and **TypeScript**
+- 💡 Interested in SaaS platforms, APIs, and scalable backend architectures
+- 🤝 Always open to learning, collaborating, and contributing to exciting projects
+- 🎯 Goal: Build software that is clean, maintainable, and impactful
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-    <!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" />
 
-<!-- Frameworks & Libraries -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px" />
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<!-- Spring & Spring Boot -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" />
-
-
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" />
-
-<!-- Web Basics -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Contact Me  
+## 📈 Most Used Languages
 
-- 📧 **Email**: [meryemsalhi590@gmail.com](mailto:meryemsalhi590@gmail.com)  
-- 💼 **LinkedIn**: [Meryem Salhi](https://www.linkedin.com/in/meryem-salhi-73251b33a/)   
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
+## 🚀 What I'm Working On
 
-🎉 **Merci d'avoir visité mon profil !**  
-N'hésite pas à explorer mes projets ou à me contacter pour discuter de collaborations 🚀
+- 🔹 Full Stack Web Applications
+- 🔹 REST APIs
+- 🔹 Laravel & React Projects
+- 🔹 Clean Architecture
+- 🔹 Multi-tenant SaaS Applications
+- 🔹 Software Best Practices
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:**  
+**meryemsalhi590@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/meryem-salhi-73251b33a/
+
+
+---
+
+## 💭 Quote
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! ✨ <br>
+Feel free to explore my repositories and connect with me. 🚀
+</p>
